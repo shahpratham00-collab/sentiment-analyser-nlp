@@ -189,12 +189,11 @@ sentiment-analyser-nlp/
 ## About the Author
 
 **Pratham Shah**
-MSc Artificial Intelligence and Data Science
+MSc Artificial Intelligence
 Nottingham Trent University, UK
 
-LinkedIn: [linkedin.com/in/prathamshah](https://linkedin.com/in/prathamshah)
-GitHub: [github.com/prathamshah](https://github.com/prathamshah)
-
+LinkedIn: [linkedin.com/in/prathamshah16](https://www.linkedin.com/in/prathamshah16/)
+GitHub: [github.com/shahpratham00-collab](https://github.com/shahpratham00-collab)
 > This project is part of an applied NLP portfolio demonstrating practical
 > experience with transformer models, classical ML baselines, model evaluation,
 > and production-ready Python engineering.
